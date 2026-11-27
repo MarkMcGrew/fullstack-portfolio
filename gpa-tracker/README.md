@@ -18,3 +18,4 @@ An interactive web application built to track college coursework, calculate weig
 2. Open **phpMyAdmin** and import `database.sql` to create `gpa_tracker_db` with sample courses.
 3. Rename `db.example.php` to `db.php` and verify your MySQL port (`3306` or `3307`).
 4. Visit `http://localhost/gpa-tracker/index.php` in your browser.
+![GPA Tracker Dashboard](<screenshots/My GPA & Degree Progress Tracker.png>)
