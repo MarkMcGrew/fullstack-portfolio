@@ -23,6 +23,6 @@ During medical emergencies where a patient is unresponsive, every second counts.
 4. Update your MySQL host/port settings in your database configuration file (`config.php` or `db.php`).
 5. Visit `http://localhost/ems-health-app/` in your browser.
 ## Screenshots
-![Patient Intake Form](screenshots/intake.png)
-![Printable Wallet Card & QR Code](screenshots/wallet-card.png)
-![EMS Triage View](screenshots/triage-view.png)
+![Patient Intake Form](<screenshots/Patient Intake Form.png>)
+![Printable Wallet Card & QR Code](<screenshots/Printable Wallet Card & QR Code.png>)
+![EMS Triage View](<screenshots/EMS Triage View.png>)
